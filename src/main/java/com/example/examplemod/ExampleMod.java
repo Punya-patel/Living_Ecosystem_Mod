@@ -1,4 +1,5 @@
 package com.example.examplemod;
+\\ This will beversion 1.0
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.particles.ParticleTypes;
